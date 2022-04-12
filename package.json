@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "github:discordjs/voice",
+    "canvas": "^2.9.1",
+    "discord.js": "^12.5.3",
+    "distube": "^3.2.1",
+    "enmap": "^5.8.13",
+    "express": "^4.17.3",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium": "^0.7.9",
+    "line-reader": "^0.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
